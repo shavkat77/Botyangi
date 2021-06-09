@@ -6,7 +6,7 @@ class Translation(object):
 📹YouTube dan ham Vedio Yuklab berishimiz mumkin
 Buning uchun /help buyrug'ini yuborib To'liq ma'lumot bilib oling.
 
-💻Dasturchi: @abdulloev_shavkat
+💻Dasturchi: @AdvakatUz
 📡Kanallarimiz @KingsOfPhp , @api_kod"""
     RENAME_403_ERR = "Kechirasiz. Sizga ushbu faylning nomini o'zgartirish huquqi berilmagan."
     ABS_TEXT = " Iltimos, xudbin bo'lmang."
